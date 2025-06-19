@@ -21,5 +21,5 @@ pip install -r requirements.txt
 After installing dependencies, launch Jupyter Notebook:
 
 ```bash
-jupyter notebook getting-started-with-titanic.ipynb
+jupyter notebook "getting-started-with-titanic.ipynb"
 ```
